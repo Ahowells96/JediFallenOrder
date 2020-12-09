@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "JediFallenOrder",
+			"Path": "C:\\Personal Work\\UE4 Projects\\JediFallenOrder\\Source\\JediFallenOrder.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "JediFallenOrderEditor",
+			"Path": "C:\\Personal Work\\UE4 Projects\\JediFallenOrder\\Source\\JediFallenOrderEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

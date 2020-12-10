@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\Personal Work\\UE4 Projects\\JediFallenOrder\\Source\\JediFallenOrder\\JediFallenOrder.Build.cs",
-		"C:\\Personal Work\\UE4 Projects\\JediFallenOrder\\Source\\JediFallenOrder.Target.cs",
-		"C:\\Personal Work\\UE4 Projects\\JediFallenOrder\\Source\\JediFallenOrderEditor.Target.cs"
-	],
-	"EngineVersion": "4.25.4"
-}
